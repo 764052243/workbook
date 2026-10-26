@@ -46,4 +46,8 @@ Windows 也可用 `py -3.11`，macOS/Linux 常用 `python3`。Codex 桌面环境
 - [真实用量记录](docs/MEASUREMENT.md)
 - [更新记录](docs/CHANGELOG.md)
 
+## 用户提供的资料
+
+- [Windows ChatGPT 桌面端升级流程.docx](docs/reference/Windows%20ChatGPT%20桌面端升级流程.docx)：按用户要求原样归档，未读取或核验正文。
+
 维护变更后运行：`python -B -m unittest discover -s tests -v`。本仓库不承诺降低 80%；文件缩小、单次工具预算和任务总消耗是不同指标。
