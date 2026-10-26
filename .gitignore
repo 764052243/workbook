@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.test-work/
+local/
+*.before
+*.backup
+auth.json
+config.toml
+memory_summary.md
+measurements.jsonl
+.DS_Store

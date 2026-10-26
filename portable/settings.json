@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "release": "2026.10.26.1",
+  "settings": {
+    "model_reasoning_effort": "xhigh",
+    "tool_output_token_limit": 8000
+  },
+  "rules": "portable/global-agents.md",
+  "known_rules_sha256": [
+    "355f53b9e9893473d34ed640d6a55b04f77bcae7d4354aa13464acb84a9f21d9",
+    "f9d44dcd58194519b864be1c80a669efb6f0f66a35a568c2395c73d40b1f6db8"
+  ]
+}
